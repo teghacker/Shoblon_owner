@@ -1,6 +1,6 @@
 from app.db.base import *
 
-token="8362668115:AAEjOsvwxCUFi4UrLCEZL0xPgojfZp2Xt0Q"
+token="8362668115:AAEjOsvwxCUFi4ULEZL0xPgojfZp2Xt0Q"
 admin=set()
 
 def admin_add1():
